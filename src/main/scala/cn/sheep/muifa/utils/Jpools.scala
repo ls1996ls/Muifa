@@ -7,6 +7,9 @@ import redis.clients.jedis.{JedisPool, JedisPoolConfig}
   * author: old sheep
   * QQ: 64341393 
   * Created 2018/11/3
+  *
+  * 啊，今天阳光不错
+  *
   */
 object Jpools {
 
