@@ -20,6 +20,7 @@ object ConfigHelper {
 	val bzip2file = applicationConf.getString("muifa.bzip.inputpath")
 	val parquetfilepath = applicationConf.getString("muifa.parquet.path")
 	val appdictfilepath = applicationConf.getString("muifa.appdict.path")
+	val stopwodfilepath = applicationConf.getString("muifa.stopword.path")
 
 
 	val driverClass = applicationConf.getString("muifa.mysql.driver")
